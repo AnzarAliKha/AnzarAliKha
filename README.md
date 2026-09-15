@@ -46,11 +46,6 @@ Building robust automation frameworks, scalable testing strategies, and ensuring
 ![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira)
 
 ---
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=khananzarali&theme=tokyonight&hide_border=true)
-
----
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ANZARALIKHAN)
